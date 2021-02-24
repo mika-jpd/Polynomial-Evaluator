@@ -1,0 +1,64 @@
+commit 7e47c45ce87c5fcf7be67014cc72ccfc6c0d3244
+Author: Mika DESBLANCS <mdesbl@teaching.CS.McGill.CA>
+Date:   Tue Apr 14 19:17:18 2020 -0400
+
+    All I need is to add powi loop
+
+commit 23501c1e922c4a53243a44d69f37900220f13cd2
+Author: Mika DESBLANCS <mdesbl@teaching.CS.McGill.CA>
+Date:   Tue Apr 14 13:42:33 2020 -0400
+
+    Itss getting there
+
+commit 5998f151977fc27e652edbe0797ad8890bc4f04e
+Author: Mika DESBLANCS <mdesbl@teaching.CS.McGill.CA>
+Date:   Mon Apr 13 15:07:25 2020 -0400
+
+    Modofied main.c and utils.c
+
+commit 4b10972ba7ffdd41b7c5825005d3addbed471b6a
+Author: Mika DESBLANCS <mdesbl@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 17:35:22 2020 -0400
+
+    Added poi: before tests
+
+commit eb221a4c6e07300c729ad4b61dc24914a849717b
+Author: Mika DESBLANCS <mdesbl@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 17:16:19 2020 -0400
+
+    Utils.c with parse function
+commit 528938ac13621a990ffc73487b7bd385c49a447b
+Author: Mika DESBLANCS <mdesbl@teaching.CS.McGill.CA>
+Date:   Tue Apr 14 20:56:14 2020 -0400
+
+    The Final Verison, I am ready to be a millionaire
+
+commit 7e47c45ce87c5fcf7be67014cc72ccfc6c0d3244
+Author: Mika DESBLANCS <mdesbl@teaching.CS.McGill.CA>
+Date:   Tue Apr 14 19:17:18 2020 -0400
+
+    All I need is to add powi loop
+
+commit 23501c1e922c4a53243a44d69f37900220f13cd2
+Author: Mika DESBLANCS <mdesbl@teaching.CS.McGill.CA>
+Date:   Tue Apr 14 13:42:33 2020 -0400
+
+    Itss getting there
+
+commit 5998f151977fc27e652edbe0797ad8890bc4f04e
+Author: Mika DESBLANCS <mdesbl@teaching.CS.McGill.CA>
+Date:   Mon Apr 13 15:07:25 2020 -0400
+
+    Modofied main.c and utils.c
+
+commit 4b10972ba7ffdd41b7c5825005d3addbed471b6a
+Author: Mika DESBLANCS <mdesbl@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 17:35:22 2020 -0400
+
+    Added poi: before tests
+
+commit eb221a4c6e07300c729ad4b61dc24914a849717b
+Author: Mika DESBLANCS <mdesbl@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 17:16:19 2020 -0400
+
+    Utils.c with parse function
