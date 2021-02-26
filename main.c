@@ -23,7 +23,7 @@ int main (int argc, char *argv[]) {
 		exit(10);
 	}
 
-    // Dynamic programming wowowowowowo
+    // Dynamic programming!!
     // I loop through the file provided line by line and send it through parse
     char *num = malloc(20*sizeof(char));
     while (fgets(num, sizeof(num), file)) {
