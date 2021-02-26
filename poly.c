@@ -1,11 +1,3 @@
-/*
-Dear Diary,
-
-I wrote this assignement over three days. I had fun; working with pointers and
-LinkedLists is fun !
-
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
